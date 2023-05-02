@@ -1,6 +1,6 @@
 # DzloStub
 DzloStub Is a new Stub Builder and is in the devolpment stages not everything will work well if you have any questions go to https://discord.gg/JtmJDAvGH5
-
+Youtube channel https://www.youtube.com/channel/UCcSRwYcjbo0_dcgkvDwOYgA
 
 ![image](https://user-images.githubusercontent.com/101367753/235562070-70525e0a-26cf-441d-bb36-73ff5044e92e.png)
 THIS WAS MADE BY Liverz#6666 & Phoenix OOF#6729 
